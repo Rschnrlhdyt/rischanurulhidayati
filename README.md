@@ -25,8 +25,7 @@ Backend & Data Analytics Enthusiast
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rischanurulhidayati/)
 
 ### My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rschnrlhdyt&locale=en&hide_title=false&layout=compact&card_width=465&langs_count=6&theme=dracula&hide_border=true&order=2&hide=css,scss,html"  alt="languages graph"/><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Rschnrlhdyt&show_icons=true&theme=dracula&hide_border=true"></img> 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rschnrlhdyt&theme=radical)](https://git.io/streak-stats)
 
 </details>
 
